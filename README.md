@@ -12,19 +12,12 @@ This repository aims to **make the notes open, maintainable, and community‑dri
 
 The folder hierarchy mirrors the structure previously maintained on Notion:
 
-```
-Prep Term
-└── Linux Shell Scripting
+1. [Linux Shell Scripting](./linux_shell_scripting/README.md)
+2. [CS 513 Software Systems]()
+3. [NC 501 Networking & Communication]()
+4. [NC 601 Wireless Access Network]()
 
-1st Semester
-├── CS 513 Software Systems
-└── NC 501 Networking & Communication
-
-2nd Semester
-└── NC 601 Wireless Access Network
-```
-
-Each folder contains relevant notes, references, solutions, summaries, or diagrams associated with the respective course.
+Each folder contains relevant notes, references, solutions, summaries, or assets associated with the respective course.
 
 ---
 
